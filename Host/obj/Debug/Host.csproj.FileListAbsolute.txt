@@ -1,0 +1,16 @@
+D:\Моя папка\Projects\WCF\Exam\Host\Host\bin\Debug\Host.exe.config
+D:\Моя папка\Projects\WCF\Exam\Host\Host\bin\Debug\Host.exe
+D:\Моя папка\Projects\WCF\Exam\Host\Host\bin\Debug\Host.pdb
+D:\Моя папка\Projects\WCF\Exam\Host\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\Моя папка\Projects\WCF\Exam\Host\Host\obj\Debug\Host.exe
+D:\Моя папка\Projects\WCF\Exam\Host\Host\obj\Debug\Host.pdb
+D:\Моя папка\Projects\WCF\Task_5 (Exam)\Host\Host\bin\Debug\Host.exe.config
+D:\Моя папка\Projects\WCF\Task_5 (Exam)\Host\Host\obj\Debug\Host.exe
+D:\Моя папка\Projects\WCF\Task_5 (Exam)\Host\Host\obj\Debug\Host.pdb
+D:\In development\WCF\WCF\Task_5 (Exam)\Host\Host\bin\Debug\Host.exe.config
+D:\In development\WCF\WCF\Task_5 (Exam)\Host\Host\bin\Debug\Host.exe
+D:\In development\WCF\WCF\Task_5 (Exam)\Host\Host\bin\Debug\Host.pdb
+D:\In development\WCF\WCF\Task_5 (Exam)\Host\Host\obj\Debug\Host.csprojAssemblyReference.cache
+D:\In development\WCF\WCF\Task_5 (Exam)\Host\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\In development\WCF\WCF\Task_5 (Exam)\Host\Host\obj\Debug\Host.exe
+D:\In development\WCF\WCF\Task_5 (Exam)\Host\Host\obj\Debug\Host.pdb
